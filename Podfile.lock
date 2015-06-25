@@ -1,0 +1,15 @@
+PODS:
+  - GoogleAnalytics-iOS-SDK (3.10):
+    - GoogleAnalytics-iOS-SDK/Core (= 3.10)
+  - GoogleAnalytics-iOS-SDK/Core (3.10)
+  - SwiftyJSON (2.2.0)
+
+DEPENDENCIES:
+  - GoogleAnalytics-iOS-SDK (= 3.10)
+  - SwiftyJSON (~> 2.2)
+
+SPEC CHECKSUMS:
+  GoogleAnalytics-iOS-SDK: 4f98a376c1d61e6ac4ca47951655820314856eef
+  SwiftyJSON: 0b3e6c07af17ff745e77e8e9984097b55c956e5c
+
+COCOAPODS: 0.37.2
